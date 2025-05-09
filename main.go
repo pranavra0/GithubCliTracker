@@ -1,8 +1,7 @@
 package main
 
 import (
-	"GithubCliTracker/cmd"
-	"fmt"
+	"githubclitracker/cmd"
 	"log"
 )
 
